@@ -1,2 +1,2 @@
-# ml-car-api-docker
-despliegue de ml car api con docker
+# car-price-api
+api para modelo de machine learning de predicción de precio de autos
